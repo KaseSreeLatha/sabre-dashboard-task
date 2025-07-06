@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "dashboard": "Tablero",
+    "calibrationDataUpload": "Carga de Datos de Calibración",
+    "reports": "Reportes"
+  },
+  "header": {
+    "userRole": "Administrador del Sistema"
+  },
+  "dashboard": {
+    "title": "Tablero",
+    "welcome": "Bienvenido al Sistema de Calibración de Aerolíneas",
+    "description": "Gestione sus cargas de datos de calibración y vea reportes desde este tablero central."
+  },
+  "reports": {
+    "title": "Reportes",
+    "description": "Vea y analice sus reportes de datos de calibración aquí.",
+    "noReports": "No hay reportes disponibles en este momento."
+  },
+  "footer": {
+    "copyright": "© 2015 - 2025 Sabre GLBL Inc. Todos los Derechos Reservados."
+  }
+}

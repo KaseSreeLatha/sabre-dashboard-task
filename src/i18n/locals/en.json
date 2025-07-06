@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "calibrationDataUpload": "Calibration Data Upload",
+    "reports": "Reports"
+  },
+  "header": {
+    "userRole": "System Administrator"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to the Airline Calibration System",
+    "description": "Manage your calibration data uploads and view reports from this central dashboard."
+  },
+  
+  "reports": {
+    "title": "Reports",
+    "description": "View and analyze your calibration data reports here.",
+    "noReports": "No reports available at this time."
+  },
+  "footer": {
+    "copyright": "© 2015 - 2025 Sabre GLBL Inc. All Rights Reserved."
+  }
+}

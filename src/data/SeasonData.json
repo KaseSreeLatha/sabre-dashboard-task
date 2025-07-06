@@ -1,0 +1,558 @@
+[
+  {
+    "id": "b19fdd6d-7964-471b-8888-8c5804282bc5",
+    "title": "Calendar Updates for 2023-24",
+    "tagline": "Upload with accuracy. Calibrate with confidence.",
+    "seasonStartYear": 2023,
+    "seasonEndYear": 2024,
+    "seasons": [
+      {
+        "name": "Winter",
+        "duration": [
+          {
+            "id": "40e059f6-996b-47f9-9f58-01fe0abda107",
+            "monthNumber": 11,
+            "monthName": "November",
+            "year": 2023,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "8f339828-911e-4f71-bcf1-c574790a8b47",
+            "monthNumber": 12,
+            "monthName": "December",
+            "year": 2023,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "d7575280-a4d1-44f4-bf28-2979431dd0ff",
+            "monthNumber": 1,
+            "monthName": "January",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "2ad38728-adca-4ce5-9a65-e1d028764e09",
+            "monthNumber": 2,
+            "monthName": "February",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "4169f0d9-4c1c-4780-9fdb-0582573c4ec9",
+            "monthNumber": 3,
+            "monthName": "March",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          }
+        ]
+      },
+      {
+        "name": "Summer",
+        "duration": [
+          {
+            "id": "6402bbc9-f46e-4359-ba19-6e290df290a2",
+            "monthNumber": 4,
+            "monthName": "April",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "f8c6342f-7d35-4a6d-86d5-bc00987567f5",
+            "monthNumber": 5,
+            "monthName": "May",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "deaa6b6b-25d2-488a-826c-3d2d087a7ca6",
+            "monthNumber": 6,
+            "monthName": "June",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "d7dadb5d-2026-4b8f-8dde-556d2a59ccab",
+            "monthNumber": 7,
+            "monthName": "July",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "f257b8ba-5ea9-44a9-a836-862b864318e5",
+            "monthNumber": 8,
+            "monthName": "August",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "614c0b58-1783-4961-afa4-c8bb4880bad0",
+            "monthNumber": 9,
+            "monthName": "September",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "c330db89-b0bd-41e7-b3b8-aa4e13c90b6c",
+            "monthNumber": 10,
+            "monthName": "October",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "01f5ae07-0c81-4a4e-ad28-982cf58199a9",
+    "title": "Calendar Updates for 2024-25",
+    "tagline": "Upload with accuracy. Calibrate with confidence.",
+    "seasonStartYear": 2024,
+    "seasonEndYear": 2025,
+    "seasons": [
+      {
+        "name": "Winter",
+        "duration": [
+          {
+            "id": "6aa74818-2f4a-4a15-9526-368603c84e4d",
+            "monthNumber": 11,
+            "monthName": "November",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "955a9f31-8d74-49d6-a631-4e372584b77d",
+            "monthNumber": 12,
+            "monthName": "December",
+            "year": 2024,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "5baa22d3-49f6-4741-a1bb-c582c841fcb1",
+            "monthNumber": 1,
+            "monthName": "January",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "d4332d70-9aa0-42f7-9e5f-8babe8039865",
+            "monthNumber": 2,
+            "monthName": "February",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "e35ac7e5-70f1-4eb1-bb14-963242820e1f",
+            "monthNumber": 3,
+            "monthName": "March",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          }
+        ]
+      },
+      {
+        "name": "Summer",
+        "duration": [
+          {
+            "id": "b07803e1-58ba-4087-887a-3b0ae9d37584",
+            "monthNumber": 4,
+            "monthName": "April",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "3743b045-bcdc-4179-8641-37b697305f2f",
+            "monthNumber": 5,
+            "monthName": "May",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "3d7d0d6b-0af2-4822-bd2e-88135ee3ce0c",
+            "monthNumber": 6,
+            "monthName": "June",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "3290a20f-c06d-4b61-9895-58a4aba0b94a",
+            "monthNumber": 7,
+            "monthName": "July",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "0cd4fc99-9b28-409f-98cb-a17678493c9c",
+            "monthNumber": 8,
+            "monthName": "August",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "8bda5553-3027-4142-98c7-04a3f3e81019",
+            "monthNumber": 9,
+            "monthName": "September",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "206c6d09-4435-4b76-8652-95920edf5397",
+            "monthNumber": 10,
+            "monthName": "October",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "034596e1-2936-4b0b-b0d2-79d58b855f57",
+    "title": "Calendar Updates for 2025-26",
+    "tagline": "Upload with accuracy. Calibrate with confidence.",
+    "seasonStartYear": 2025,
+    "seasonEndYear": 2026,
+    "seasons": [
+      {
+        "name": "Winter",
+        "duration": [
+          {
+            "id": "3b5db527-03ea-4c26-8b3c-f20ba5370723",
+            "monthNumber": 11,
+            "monthName": "November",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "589ea6e5-0976-4cb5-b033-626a86867af9",
+            "monthNumber": 12,
+            "monthName": "December",
+            "year": 2025,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "618ae47f-c4b6-4347-8535-c1f904b81963",
+            "monthNumber": 1,
+            "monthName": "January",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "3b2b5fe2-5acf-4004-97cc-907648034693",
+            "monthNumber": 2,
+            "monthName": "February",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "9d8e2c26-2b5e-40de-9090-c20ca3a41d41",
+            "monthNumber": 3,
+            "monthName": "March",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          }
+        ]
+      },
+      {
+        "name": "Summer",
+        "duration": [
+          {
+            "id": "63a4b9bd-46f7-4f0a-9b23-e0ffbfbb0ca1",
+            "monthNumber": 4,
+            "monthName": "April",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "f033973a-0cfc-4165-95df-cc424e34fb53",
+            "monthNumber": 5,
+            "monthName": "May",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "d0880a5e-32eb-4a82-9f10-1d14c1ba8a17",
+            "monthNumber": 6,
+            "monthName": "June",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "66c87421-6da6-4c04-b3f9-13f8cbf9160f",
+            "monthNumber": 7,
+            "monthName": "July",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "d71d21bd-1f7e-4b72-974c-d1dfa7a2a373",
+            "monthNumber": 8,
+            "monthName": "August",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "8a31d7da-9257-4e9f-affb-7dd8c63dffc6",
+            "monthNumber": 9,
+            "monthName": "September",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "97445cf3-81ef-4702-921f-3cc3956d9ee4",
+            "monthNumber": 10,
+            "monthName": "October",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6de0d630-eec7-4e5b-91de-39653ff07b2c",
+    "title": "Calendar Updates for 2026-27",
+    "tagline": "Upload with accuracy. Calibrate with confidence.",
+    "seasonStartYear": 2026,
+    "seasonEndYear": 2027,
+    "seasons": [
+      {
+        "name": "Winter",
+        "duration": [
+          {
+            "id": "71f6789c-aff7-4401-ba4c-7b2a2e342d66",
+            "monthNumber": 11,
+            "monthName": "November",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "025d86e5-2679-4523-a71b-9ae006b646e2",
+            "monthNumber": 12,
+            "monthName": "December",
+            "year": 2026,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "7a2f0a30-ab44-4d78-ad4b-53312993bc9c",
+            "monthNumber": 1,
+            "monthName": "January",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "733430c9-ca85-4411-8b12-c586e9e39695",
+            "monthNumber": 2,
+            "monthName": "February",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "eb5c90c4-0bce-4d86-b2d0-a15bd61786d7",
+            "monthNumber": 3,
+            "monthName": "March",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          }
+        ]
+      },
+      {
+        "name": "Summer",
+        "duration": [
+          {
+            "id": "ba904e31-e63d-4724-a4f6-73f20601102f",
+            "monthNumber": 4,
+            "monthName": "April",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "42cbe423-81c3-4f76-92b5-4bf5deab6902",
+            "monthNumber": 5,
+            "monthName": "May",
+            "year": 2027,
+            "isDataUploaded": true,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": "6 April 2027",
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "89bc6f1c-548d-47a2-8ee8-795ab712f8dd",
+            "monthNumber": 6,
+            "monthName": "June",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "fd26b84b-509e-4ac6-890f-929173734b2f",
+            "monthNumber": 7,
+            "monthName": "July",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "52e2af5a-4b87-4aa2-940c-39ff994340c1",
+            "monthNumber": 8,
+            "monthName": "August",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "eff8ab0c-b6b8-40a7-9dd1-085a2de873fa",
+            "monthNumber": 9,
+            "monthName": "September",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          },
+          {
+            "id": "c7da940e-4194-4670-990a-45217c8a21aa",
+            "monthNumber": 10,
+            "monthName": "October",
+            "year": 2027,
+            "isDataUploaded": null,
+            "status": "This month’s data has not been uploaded yet. Please upload soon.",
+            "uploadedDate": null,
+            "uploadedDescription": "no data found"
+          }
+        ]
+      }
+    ]
+  }
+]
