@@ -1,0 +1,90 @@
+.season-row {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  align-items: start;
+  margin-bottom: 30px;
+
+  .season-label {
+    white-space: nowrap;
+
+    h2 {
+      font-size: 20px;
+      line-height: 1.4;
+      color: #222;
+      white-space: nowrap;
+
+      .season-range {
+        font-weight: normal;
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+.table-container {
+  flex: 1 1 auto;
+  border: 1px solid #ececec;
+  border-radius: 6px;
+  overflow: hidden;
+
+  .table-row {
+    display: flex;
+    border-bottom: 1px solid #ececec;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    &:not(.table-header):nth-child(odd) {
+      background-color: #ffffff;
+    }
+
+    &:not(.table-header):nth-child(even) {
+      background-color: #f8f8f8;
+    }
+
+    &.upload-false {
+      .table-cell:nth-child(2),
+      .table-cell:nth-child(3),
+      .table-cell:nth-child(4) {
+        color: red;
+      }
+    }
+
+    &.upload-null {
+      .table-cell:nth-child(2),
+      .table-cell:nth-child(3),
+      .table-cell:nth-child(4) {
+        color: gray;
+      }
+    }
+  }
+
+  .table-header {
+    background-color: #ffffff;
+    font-size: 14px;
+  }
+
+  .table-cell {
+    padding: 12px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+
+    &:nth-child(1) {
+      flex: 0 0 12%;
+    }
+
+    &:nth-child(2) {
+      flex: 0 0 6%;
+      text-align: center;
+    }
+
+    &:nth-child(3) {
+      flex: 0 0 12%;
+    }
+
+    &:nth-child(4) {
+      flex: 1 1 auto;
+    }
+  }
+}

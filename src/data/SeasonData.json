@@ -14,9 +14,9 @@
             "monthNumber": 11,
             "monthName": "November",
             "year": 2023,
-            "isDataUploaded": null,
+            "isDataUploaded": true,
             "status": "This month’s data has not been uploaded yet. Please upload soon.",
-            "uploadedDate": null,
+            "uploadedDate": "4 Nov 2023",
             "uploadedDescription": "no data found"
           },
           {
@@ -24,7 +24,7 @@
             "monthNumber": 12,
             "monthName": "December",
             "year": 2023,
-            "isDataUploaded": null,
+            "isDataUploaded":false,
             "status": "This month’s data has not been uploaded yet. Please upload soon.",
             "uploadedDate": null,
             "uploadedDescription": "no data found"
@@ -79,7 +79,7 @@
             "monthNumber": 5,
             "monthName": "May",
             "year": 2024,
-            "isDataUploaded": null,
+            "isDataUploaded":false,
             "status": "This month’s data has not been uploaded yet. Please upload soon.",
             "uploadedDate": null,
             "uploadedDescription": "no data found"
@@ -109,7 +109,7 @@
             "monthNumber": 8,
             "monthName": "August",
             "year": 2024,
-            "isDataUploaded": null,
+            "isDataUploaded":false,
             "status": "This month’s data has not been uploaded yet. Please upload soon.",
             "uploadedDate": null,
             "uploadedDescription": "no data found"

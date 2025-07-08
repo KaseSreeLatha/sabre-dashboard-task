@@ -1,22 +1,17 @@
-.grid-wrapper {
-  display: flex;
-  gap: 40px;
-  background-color: #fff;
-}
-
 .season-column {
   flex: 1;
   display: flex;
   flex-direction: column;
   padding-top: 14px;
-}
+  padding-left: 20px;
 
-.season-column:first-child {
-  padding-left: 20px; /* adjust spacing as needed */
-}
-
-.season-column:last-child {
-  padding-right: 30px; /* adjust spacing as needed */
+  &:last-child {
+    padding-left: 0;
+    padding-right: 30px;
+  }
+  &:first-child {
+    padding-left: 30px;
+  }
 }
 
 .season-title {

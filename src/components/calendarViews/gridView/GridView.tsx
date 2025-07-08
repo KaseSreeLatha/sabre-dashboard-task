@@ -1,5 +1,5 @@
 import React from 'react';
-import './GridView.css';
+import './GridView.scss';
 import SeasonGrid from './SeasonGrid';
 
 type Season = {

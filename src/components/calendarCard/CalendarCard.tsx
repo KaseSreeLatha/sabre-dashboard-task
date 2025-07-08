@@ -1,6 +1,6 @@
 import React from 'react';
 import { Check, X, AlertTriangle, HelpCircle } from 'lucide-react';
-import './CalendarCard.css';
+import './CalendarCard.scss';
 
 type CalendarCardProps = {
   month: string;

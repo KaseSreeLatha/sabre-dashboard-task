@@ -6,7 +6,7 @@ import Footer from './components/footer/Footer';
 import CalibrationDataUpload from './pages/calibrationDataUpload/CalibrationDataUpload';
 import Reports from './pages/reports/Reports';
 import Header from './components/header/Header';
-import './App.css'
+import './App.scss'
  
 function App() {
   return (

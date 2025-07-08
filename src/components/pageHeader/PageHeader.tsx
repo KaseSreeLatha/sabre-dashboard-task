@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { LayoutGrid, List, ChevronLeft, ChevronRight, ArrowRight } from 'lucide-react';
-import './PageHeader.css';
+import './PageHeader.scss';
 import data from '../../data/SeasonData.json';
+import { Link } from 'react-router-dom';
 
 type PageHeaderProps = {
   viewMode: 'grid' | 'table';
@@ -9,7 +10,7 @@ type PageHeaderProps = {
   currentIndex: number;
   setCurrentIndex: (index: number) => void;
   maxIndex: number;
-  currentSeason: typeof data[0]; // or create a specific type for this
+  currentSeason: typeof data[0];
 };
 
 const PageHeader: React.FC<PageHeaderProps> = ({
@@ -66,9 +67,9 @@ const PageHeader: React.FC<PageHeaderProps> = ({
             <List size={16} />
           </button>
         </div>
-        <button className="upload-button">
+        <Link to={"/calibration"} className="upload-button">
           Calibration Data Upload <ArrowRight size={16} className="arrow-icon" />
-        </button>
+        </Link>
       </div>
     </div>
   );

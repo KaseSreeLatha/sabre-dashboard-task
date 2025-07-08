@@ -1,4 +1,4 @@
-import "./Table.css";
+import "./Table.scss";
 import {
   Check,
   X,

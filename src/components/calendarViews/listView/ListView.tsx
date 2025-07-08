@@ -1,5 +1,5 @@
 import Table from "../../calendarTable/Table";
-import "./ListView.css";
+import "./ListView.scss";
 
 type ListViewProps = {
   seasonData: {
