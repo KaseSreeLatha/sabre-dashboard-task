@@ -21,7 +21,7 @@ const GridView: React.FC<GridViewProps> = ({ seasonData }) => {
     <div className="grid-wrapper">
       <SeasonGrid data={winterData} />
       <div className="separator-wrapper">
-        <svg height="617px" width="2" style={{ display: 'block' }}>
+        <svg height="610px" width="2" style={{ display: 'block' }}>
           <line
             x1="1"
             y1="0"

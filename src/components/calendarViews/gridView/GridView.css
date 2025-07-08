@@ -32,10 +32,3 @@
   grid-template-columns: repeat(2, 1fr);
   gap: 16px;
 }
-
-.separator-line {
-  width: 1px;
-  background: none;
-  border-left: 1px dashed #ccc;
-  margin: 0 20px;
-}

@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import './Header.css';
+import logo from '../../assets/logo.svg';
 
 const Header: React.FC = () => {
   const { t } = useTranslation();
@@ -14,8 +15,8 @@ const Header: React.FC = () => {
       <div className="header-container">
         <div className="header-content">
           <div className="header-left">
-            <div className="logo">
-              <div className="logo-text">Sabre</div>
+            <div>
+              <img src={logo} alt='logo' className="logo"/>
             </div>
             <nav className="nav">
               <Link
